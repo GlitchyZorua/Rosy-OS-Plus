@@ -2,4 +2,4 @@
 Scratch OS
 
 
-You may need tp load some of these with PenguinMod (https://penguinmod.com/)
+You may need to load most of these with PenguinMod (https://penguinmod.com/)
