@@ -1,0 +1,28 @@
+- Save documents written in the notes app
+- Printing
+- Retry button for games?
+- Directory (file manager)
+- Cloud variables on games for scoring
+- Better chat (IRC support)
+- Rework Camera App
+  - Add the option to take photos
+  - Video transparency
+  - Other fun things.
+- Password settings
+- Sound settings
+- Math operation for calculator
+- Better timer and stopwatch (Rework the Clock app)
+  - Add Clock, Alarm, and .beat Time
+- Calendar
+- Music composer
+- Other instrument for piano app
+- Gallery
+- Weather
+- Rework the news app, maybe.
+- Scratch app
+- Wikipedia
+- Dice app
+- Text to speech Settings
+- Solitaire
+- Chess
+
