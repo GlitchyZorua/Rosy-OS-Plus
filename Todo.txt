@@ -1,3 +1,5 @@
+- Better timer and stopwatch (Rework the Clock app)
+  - Add Clock, Alarm, and .beat Time
 - Save documents written in the notes app
 - Printing
 - Retry button for games?
@@ -11,8 +13,6 @@
 - Password settings
 - Sound settings
 - Math operation for calculator
-- Better timer and stopwatch (Rework the Clock app)
-  - Add Clock, Alarm, and .beat Time
 - Calendar
 - Music composer
 - Other instrument for piano app

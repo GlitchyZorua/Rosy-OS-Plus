@@ -1,0 +1,78 @@
+TOP LOVED ~ password (pin) is 1-4-0-7 (why people keep on asking the pin while it's right on top of the description?)
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Welcome to Rosy OS, an Operating System Simulator
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+OS is an "Operating System" like Microsoft Windows, Linux, Mac, Android, etc. I've seen a lot of OS in Scratch and I've always wanted to create one with my way for fun, also I wanted to show the world that I'm actually capable of doing heavy scripting (even though it would take a really long time for me to finish (that's why I prefer making arts)) xD
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+I think I started making this somewhere in February (2017), and procrastinated to the point I almost gave up, school has been really tight and I'm having a hard time to spare my time, "this is far from being finished" but I guess it's at least pretty decent to be shared, I will update this from time to time
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Featured Project in the News: -AMULET-
+https://scratch.mit.edu/projects/121274126/
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+I gave quite the effort... I think this deserves a feature suggestion?. nah... it won't happen ;u; cri
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Features:
+- Neat login session
+- Live Beautiful Wallpaper
+- Live analog clock, digital clock, and the current date
+- Interesting Games
+- Personal Assistant
+- Scratch News, books, and quotes
+- Calculator, Timer
+- Keyboard Piano
+- Rosy-Draw
+- To-Do-List, Notepad
+- and log off xD
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Things to be added (idk when...):
+- Directory (file manager)
+- Cloud variables on games for scoring
+- Whitelist for livechat
+- Password settings
+- Sound settings
+- Math operation for calculator
+- Better timer and stopwatch
+- Calendar
+- Music composer
+- Other instrument for piano app
+- Gallery
+- and so on :')
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Known bugs:
+- Games has no score yet at the moment
+- It lags? well get a better computer xD I tried my best to make it as smooth as possible, really ;u; ~ (now that scratch has been updated to 3.0, the OS runs really smooth with almost no lag at all tho)
+- Prior to 3.0, the assistant is completely broken and I'm still having difficulties in repairing it...)
+- There are some graphical issues in the OS due to 3.0 update, and there's nothing much that I can really do about it... 
+- You can't erase the word that you typed in the notepad (yet)
+- Let me know if you have anything in mind
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Feel free to remix, add your feature, and improve ^^
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Special Thanks to:
+
+@ZubStudios
+He's the one who created most of the amazing sound effect in this project, without the sound effect, it won't be as powerful as it is now, also the original composer of the "Sakura" and "Ocean" song, which is used for the theme of the project. I really admire how he compose sounds, a professional composer!
+
+@Mole_Gaming
+For continuously giving me advice and support on the system, he actually tested every part of the project deeply and the only person that I know for doing so (most people tested in a flash and done), also the one who taught me programming since Colour Wars, I won't be able to make this if I never met him
+
+a lot of people who tested my project in a different website via phosporus (so many that I couldn't write them all here, I'm sorry)
+
+@OS_Green- for the green OS and @N25Games for the fiber OS.
+These two OS were the OS that gave me the inspiration and most of the OS reference. Although I made my own interface, some part of project were derived from theirs, such as icons, categories, and assistant. Inspiration does not equal copying, I've improved the interface and apps in the project~ I admire their work since I won't be able to make this without them.
+
+@IvyUI
+for the live wallpaper concept, I implemented the idea and it looks beautiful, I hope your OS can be finished soon!
+
+TheFatRat, Vocaloid, Pokemon, Fall Out Boy~
+
+@Sensytive, @ScratchStang, @Mole_gaming, @LittLEMiSSBuTTerFLY, @Haudio for the quotes
+
+and a lot more people that I probably missed ;u;
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+thank you for viewing this project, love and fave is much appreciated ♡♡♡ Have a great day!!
+
+UPDATE LOG:
+- 28th Jan 2019, fixed some damages prior to 3.0
+- 23rd May 2018, changed the thumbnail
+- 29th May 2017, shared the project globally
