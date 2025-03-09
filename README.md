@@ -2,7 +2,7 @@
 
 Rosy OS Plus is based on a scratch project called Rosy OS. Codenamed Dragon.
 
-I've seen the potentional of RosyOS. But I knew that RosyOS will never be worked on again, So here comes Rosy OS Plus! :3
+I've seen the potential of RosyOS. But I knew that RosyOS will never be worked on again, So here comes Rosy OS Plus! :3
 
 (Codenamed: Dragon OS)
 
