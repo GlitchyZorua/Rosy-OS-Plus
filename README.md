@@ -1,4 +1,6 @@
-Hey, we've moved to https://github.com/GlitchyZorua/RosyOS-Plus.
+# MOVED!!!
+
+Hey, we've moved to https://github.com/GlitchyZorua/RosyOS-Plus!!
 
 # Rosy-OS-Plus
 
