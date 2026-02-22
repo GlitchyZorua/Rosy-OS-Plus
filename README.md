@@ -1,3 +1,5 @@
+Hey, we've moved to https://github.com/GlitchyZorua/RosyOS-Plus.
+
 # Rosy-OS-Plus
 
 Rosy OS Plus is based on a scratch project called Rosy OS. Codenamed Dragon. (styled as Rosy OS+, or Rosy+OS)
